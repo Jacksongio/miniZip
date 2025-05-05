@@ -1,6 +1,6 @@
 # miniZip - Reverse Engineered WinZip Compressor
 
-##� Overview
+## Overview
 
 **miniZip** is a lightweight C program that emulates the compression behavior of **WinZip** by manually writing valid ZIP file structures and using `zlib` for DEFLATE compression. This project was built as part of a **Software Reverse Engineering** course at Virginia Tech, based on a detailed disassembly and analysis of the original WinZip binary.
 
@@ -113,6 +113,5 @@ Course: Software Reverse Engineering – Spring 2025
 - [zlib Home Page](https://zlib.net)
 - [Ghidra](https://ghidra-sre.org/)
 - [WinZip](https://www.winzip.com/)
-```
 
 ---
