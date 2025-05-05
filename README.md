@@ -115,7 +115,7 @@ Course: Software Reverse Engineering – Spring 2025
 - [WinZip](https://www.winzip.com/)
 
 ---
-## 🚀 What's Next?
+## What's Next?
 
 To make miniZip more accessible and user-friendly, the next step in this project is building a **graphical user interface (GUI)**.
 
