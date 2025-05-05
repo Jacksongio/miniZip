@@ -115,3 +115,22 @@ Course: Software Reverse Engineering – Spring 2025
 - [WinZip](https://www.winzip.com/)
 
 ---
+## 🚀 What's Next?
+
+To make miniZip more accessible and user-friendly, the next step in this project is building a **graphical user interface (GUI)**.
+
+### Planned Features:
+- Drag-and-drop support for selecting files
+- File preview before compression
+- Compression level slider (1–9)
+- Progress bar during compression
+- ZIP archive viewer (list contents, extract)
+
+### Technology Stack:
+- **Frontend GUI**: Likely built with **Python (Tkinter or PyQt)** or **Electron + Node.js** for cross-platform desktop support
+- **Backend**: Wrap the existing C logic using **Python C bindings (ctypes or CFFI)** or reimplement compression in Python using `zlib` for simplicity
+
+This enhancement will provide a user-friendly alternative to the CLI version and simulate the usability of commercial tools like WinZip.
+
+Stay tuned for the **miniZip GUI Edition**!
+
